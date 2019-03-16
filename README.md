@@ -1,0 +1,1 @@
+javascript原型规则
